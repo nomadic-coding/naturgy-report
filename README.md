@@ -16,7 +16,7 @@ The data collection started in June 2023.
    ```
 3. Run the script:  
    ```bash
-   python monitor_grid.py
+   python report.py
    ```
 
 ## Data Source
